@@ -1,0 +1,18 @@
+{
+  "name": "snow-ice-animation",
+  "version": "1.0.0",
+  "description": "JavaScript falling snow and ice animation demo",
+  "main": "script.js",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "keywords": [
+    "javascript",
+    "animation",
+    "snow",
+    "ice",
+    "canvas"
+  ],
+  "author": "Osman",
+  "license": "MIT"
+}
