@@ -1,0 +1,10 @@
+version: "1.0"
+
+animation:
+  particles: 150
+  snow_color: "white"
+  ice_color: "#aee"
+  min_radius: 2
+  max_radius: 6
+  min_speed: 1
+  max_speed: 3
